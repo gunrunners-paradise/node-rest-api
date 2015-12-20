@@ -5,7 +5,7 @@ I changed a bit of the code because the original in the tutorial was a bit buggy
 
 I used the REST Easy app for firefox, there's also one for Chrome but it sucks, MongoDB v3.0.8, Node v4.2.3 along with all of the modules listed in the package.json file.
 
-This little REST API app was made for an electronics product catalogue, you can use the REST Easy app for Firefox to interact with it or just fill in the proper URL to see it.
+This little REST API app was made for an electronics product catalogue, you can use the REST Easy app for Firefox to interact with it using crud operations or just fill in the proper URL to see it.
 You will need to set up MongoDB in your system, create a "projects" database and then create a "products" collection to test it out, or you can change the names in the app.js file so they will point to whatever database and collection/s you have in your system.
 Don't forget to type the "npm install" command to install all the needed dependencies.
 
